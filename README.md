@@ -40,12 +40,16 @@
       - Working with figure and figcaption elements
       
       
- **8. HTML Working wih media**
+ **6. HTML Working wih media**
+     - 
 
- **9. Content Identification**
+ **7. Content Identification**
+     -
 
- **10. HTML Integration**
+ **8. HTML Integration**
+     -
 
-**11. HTML Working with forma and intera elements**
+**9. HTML Working with forma and intera elements**
+     -
       
       
