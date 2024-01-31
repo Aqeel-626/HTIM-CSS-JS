@@ -1,4 +1,4 @@
-# HTIM-CSS-JS
+# HTML-CSS-JS
 
  _____________SUMMARY________________
 ***_HTML & CSS 101: Introduction to HTML_***
