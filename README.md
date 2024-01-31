@@ -41,7 +41,13 @@
       
       
  **6. HTML Working wih media**
-     - 
+     - Working with the audio elemeent
+     - Adding audio controls to the audio element 
+     - Working with the video element
+     - Understanding video formaats and compression (codecs)
+     - Understanding the issue of resolutions in the context of varying screen sizes and bandwidth
+     - Using he track element to add captions to audio/video
+     - Utilisation of iFrames to embed media in your website
 
  **7. Content Identification**
      -
