@@ -10,10 +10,14 @@
       - HTML has no programming logic
         
   2. HTML text fromatting
-      -
+      - HTML is a language used to structure web pages. It uses tags, which are enclosed in less-than and greater-than symbols, to mark different elements
+      - tags are used to indicate the start and end of an element
+      - elements serve a variety of function, such as indicating the start and end of a paragraphs, applying reading/language rules i.e emphasis, adding media, etc
      
-  4. HTML capabilties
-
+     
+  3. HTML capabilties
+      - f
+      - 
   5. HTML Navigation and linking
 
   6. HTML Working with graphics and images
