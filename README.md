@@ -53,12 +53,14 @@
      - language support
      - The language attribute is utilised to specify a website's language. This allows the brwoser to intrepert the language of the page.
      - Understanding the importance of setting the language of a webpage
-     - Undertanding div vs span , inline elements vs block elemeant 
+     - Undertanding div vs span , inline elements vs block elements
 
  **8. HTML Integration**
-     -
+     - Document head
+     - Metadata
+     - Webpage content structuring 
 
-**9. HTML Working with forma and intera elements**
+**9. HTML Working with forms and interactive elements**
      -
       
       
