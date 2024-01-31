@@ -32,7 +32,7 @@
       - Absolute URLs vs Relative URLs
       - 
      
-  **7. HTML Working with graphics and images**
+  **5. HTML Working with graphics and images**
 
  **8. HTML Working wih media**
 
