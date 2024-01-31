@@ -30,15 +30,21 @@
       - Adding links to images, etc
       - HTTP vs HTTPS
       - Absolute URLs vs Relative URLs
-      - 
+      
      
   **5. HTML Working with graphics and images**
-
+      - Using the image elemeent
+      - Adding attributes to the image element
+      - Various image formats and their properties
+      - Responsive images. Adjusting images based on device, screen size and bandwidth
+      - Working with figure and figcaption elements
+      
+      
  **8. HTML Working wih media**
 
  **9. Content Identification**
 
- **10. HTML Integratoin**
+ **10. HTML Integration**
 
 **11. HTML Working with forma and intera elements**
       
