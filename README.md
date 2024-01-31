@@ -3,19 +3,19 @@
  _____________SUMMARY________________
 ***_HTML & CSS 101: Introduction to HTML_***
 
-**  1. Introduction to HTML**
+  **1. Introduction to HTML**
       - HTML forms the foundation of all things web related
       - It Brdges the gap between human and computer languages
       - HTML is responsible for marking up the content of a website i.e is a markup language
       - HTML has no programming logic
         
-  2. HTML text fromatting
+  **2. HTML text fromatting**
       - HTML is a language used to structure web pages. It uses tags, which are enclosed in less-than and greater-than symbols, to mark different elements
       - tags are used to indicate the start and end of an element
       - elements serve a variety of function, such as indicating the start and end of a paragraphs, applying reading/language rules i.e emphasis, adding media, etc
      
      
-**  3. HTML capabilties**
+  **3. HTML capabilties**
       - Trouble shooting and debugging HTML code using the iinspaect element brwoser tool
       - Adding attributes to elements, e.g the class attribute
       - ID is a useful attribute, allowing you to target speciffic elemeaents i.e with JS or links
@@ -25,21 +25,21 @@
       - lowercase has become industry standard for HTML
       - Unusual characters
       
-**  4. HTML Navigation and linking**
+  **4. HTML Navigation and linking**
       - How to use links
       - Adding links to images, etc
       - HTTP vs HTTPS
       - Absolute URLs vs Relative URLs
       - 
      
- ** 7. HTML Working with graphics and images**
+  **7. HTML Working with graphics and images**
 
-**  8. HTML Working wih media**
+ **8. HTML Working wih media**
 
-**  9. Content Identification**
+ **9. Content Identification**
 
-**  10. HTML Integratoin**
+ **10. HTML Integratoin**
 
-**  11. HTML Working with forma and intera elements**
+**11. HTML Working with forma and intera elements**
       
       
