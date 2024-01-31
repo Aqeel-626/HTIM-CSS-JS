@@ -50,7 +50,10 @@
      - Utilisation of iFrames to embed media in your website
 
  **7. Content Identification**
-     -
+     - language support
+     - The language attribute is utilised to specify a website's language. This allows the brwoser to intrepert the language of the page.
+     - Understanding the importance of setting the language of a webpage
+     - Undertanding div vs span , inline elements vs block elemeant 
 
  **8. HTML Integration**
      -
