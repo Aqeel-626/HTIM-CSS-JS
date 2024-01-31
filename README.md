@@ -1,6 +1,6 @@
 # HTIM-CSS-JS
 
-#_____________SUMMARY________________#
+ _____________SUMMARY________________
 ***_HTML & CSS 101: Introduction to HTML_***
 
   1. Introduction to HTML
@@ -16,8 +16,11 @@
      
      
   3. HTML capabilties
-      - f
+      - Trouble shooting and debugging HTML code using the iinspaect element brwoser tool
+      - Adding attributes to elements
       - 
+    
+      
   5. HTML Navigation and linking
 
   6. HTML Working with graphics and images
